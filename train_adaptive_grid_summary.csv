@@ -1,0 +1,7 @@
+run_id,preprocess_method,h,block_size,c_value,processed,recognized_docs,keyword_hits,avg_accuracy,avg_keyword_hits
+2026-03-16T16:47:51,none,3,11,25,75,35,35,0.466667,0.466667
+2026-03-16T16:58:34,none,paddle,3,11,25,75,67,64,0.893333,0.853333
+2026-03-16T17:02:27,preprocess,paddle,3,11,25,75,65,63,0.866667,0.840000
+2026-03-16T17:09:01,none,tesseract,3,11,25,66,35,35,0.530303,0.530303
+2026-03-16T17:10:56,preprocess,tesseract,3,11,25,66,21,21,0.318182,0.318182
+2026-03-16T17:13:45,preprocess,paddle,3,11,25,66,65,63,0.984848,0.954545

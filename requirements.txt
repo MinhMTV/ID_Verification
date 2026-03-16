@@ -1,0 +1,22 @@
+# GUI
+Pillow>=10.0.0
+
+# Preprocessing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Tesseract OCR (Python Binding)
+pytesseract>=0.3.10
+
+# Optional: PDF support (falls du PDFs laden willst)
+pdf2image>=1.17.0
+
+# PaddleOCR (optional, aber im MVP auswählbar)
+paddleocr>=2.7.0,<3.0.0
+
+paddlepaddle>=2.6.0,<3.0.0
+
+# PaddlePaddle (CPU) ist platform-abhängig.
+# Linux/Windows klappt oft mit:
+# paddlepaddle>=2.6.0,<3.0.0
+# macOS (Apple Silicon) braucht oft spezielle Wheels/Anleitung.

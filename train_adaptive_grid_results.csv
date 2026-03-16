@@ -1,0 +1,424 @@
+run_id,preprocess_method,image_index,image_name,h,block_size,c_value,processed,recognized_docs,keyword_hits,accuracy,category,reason
+2026-03-16T16:47:51,none,1,Afghan.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,2,Aufenthaltstitel_Vertriebene_V.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,3,Aufenthaltstitel-Rot-Weiss-Rot-Karte_VS_20241029.jpg,3,11,25,1,1,1,1.000000,Residence permit,keyword: residence permit
+2026-03-16T16:47:51,none,4,azerbaijan.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,5,belize.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,6,china passport 1.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,7,china passport 2.jpeg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,8,china passport 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,9,china passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,10,china passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,11,china passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,12,czech.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,13,egypt.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,14,finland passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,15,finland.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,16,Fremdenpass_Datenseite_neu_20240124.png,3,11,25,1,1,2,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,17,Gruene_Verfahrenskarte_2048.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein OCR-Text
+2026-03-16T16:47:51,none,18,hong kong passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,19,hong kong passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,20,hong kong passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,21,hong kong passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,22,Identitaetskarte_fuer_Fremde_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Identitaetskarte,keyword: identitätskarte
+2026-03-16T16:47:51,none,23,india passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,24,india passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,25,india passport 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,26,india passport 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,27,india passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,28,india passport 6.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,29,indonesia passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,30,indonesia passport 2 at angle.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,31,indonesia passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,32,Karte_fuer_Geduldete_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Geduldete,keyword: geduldete
+2026-03-16T16:47:51,none,33,Konventionspass_Datenseite_neu_20240124.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,34,kosovo.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,35,kosovo2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,36,latvia.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,37,lihtunaia.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,38,lithuania.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,39,malaysia passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,40,malaysia passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,41,malaysia passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,42,malaysia passport 4.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,43,malaysia passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,44,netherlands.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,45,oman passport 1.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:47:51,none,46,palastin.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,47,philippines passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,48,philippines passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,49,philippines passport 3.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,50,philippines passport 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,51,philippines passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,52,san marino.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,53,singapore nric 1.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,54,singapore nric 2 low res.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,55,singapore nric 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,56,singapore nric 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,57,singapore nric 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,58,singapore passport 1 low res.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,59,taiwan passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,60,taiwan passport 2.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,61,taiwan passport 3.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,62,taiwan passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,63,taiwan passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,64,thailand passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,65,thailand passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,66,thailand passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,67,uk passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,68,uk passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,69,ungarn.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,70,usa passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,71,usa passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:47:51,none,72,vatican.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:47:51,none,73,Verfahrenskarte_Blau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Asylberechtigt,keyword: asylberechtigt
+2026-03-16T16:47:51,none,74,Verfahrenskarte_Grau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Schutzberechtigt,keyword: schutzberechtigt
+2026-03-16T16:47:51,none,75,Verfahrenskarte_Weiss_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Aufenthaltsberechtigungskarte,keyword: aufenthaltsberechtigungskarte
+2026-03-16T16:58:34,none,paddle,1,Afghan.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,2,Aufenthaltstitel_Vertriebene_V.jpg,3,11,25,1,1,2,1.000000,Aufenthaltstitel,keyword: aufenthaltstitel
+2026-03-16T16:58:34,none,paddle,3,Aufenthaltstitel-Rot-Weiss-Rot-Karte_VS_20241029.jpg,3,11,25,1,1,2,1.000000,Aufenthaltstitel,keyword: aufenthaltstitel
+2026-03-16T16:58:34,none,paddle,4,azerbaijan.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,5,belize.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,6,china passport 1.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,7,china passport 2.jpeg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,8,china passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,9,china passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,10,china passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,11,china passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,12,czech.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,13,egypt.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,14,finland passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,15,finland.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,16,Fremdenpass_Datenseite_neu_20240124.png,3,11,25,1,1,2,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,17,Gruene_Verfahrenskarte_2048.jpg,3,11,25,1,1,1,1.000000,Verfahrenskarte,keyword: verfahrenskarte
+2026-03-16T16:58:34,none,paddle,18,hong kong passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,19,hong kong passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,20,hong kong passport 3 very fake.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,21,hong kong passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,22,Identitaetskarte_fuer_Fremde_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Identitaetskarte,keyword: identitätskarte
+2026-03-16T16:58:34,none,paddle,23,india passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,24,india passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,25,india passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,26,india passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,27,india passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,28,india passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,29,indonesia passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,30,indonesia passport 2 at angle.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:58:34,none,paddle,31,indonesia passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,32,Karte_fuer_Geduldete_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Geduldete,keyword: geduldete
+2026-03-16T16:58:34,none,paddle,33,Konventionspass_Datenseite_neu_20240124.png,3,11,25,1,1,3,1.000000,Reisedokument,keyword: reisedokument
+2026-03-16T16:58:34,none,paddle,34,kosovo.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,35,kosovo2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,36,latvia.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,37,lihtunaia.jpg,3,11,25,1,1,0,1.000000,Travel Document,fuzzy: travel document
+2026-03-16T16:58:34,none,paddle,38,lithuania.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,39,malaysia passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,40,malaysia passport 2.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:58:34,none,paddle,41,malaysia passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,42,malaysia passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,43,malaysia passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,44,netherlands.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,45,oman passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,46,palastin.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,47,philippines passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,48,philippines passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,49,philippines passport 3.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,50,philippines passport 4.png,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:58:34,none,paddle,51,philippines passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,52,san marino.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,53,singapore nric 1.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,54,singapore nric 2 low res.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,55,singapore nric 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,56,singapore nric 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,57,singapore nric 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T16:58:34,none,paddle,58,singapore passport 1 low res.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,59,taiwan passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,60,taiwan passport 2.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,61,taiwan passport 3.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,62,taiwan passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,63,taiwan passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,64,thailand passport 1.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:58:34,none,paddle,65,thailand passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,66,thailand passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,67,uk passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,68,uk passport 2.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:58:34,none,paddle,69,ungarn.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:58:34,none,paddle,70,usa passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,71,usa passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T16:58:34,none,paddle,72,vatican.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T16:58:34,none,paddle,73,Verfahrenskarte_Blau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Asylberechtigt,keyword: asylberechtigt
+2026-03-16T16:58:34,none,paddle,74,Verfahrenskarte_Grau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Schutzberechtigt,keyword: schutzberechtigt
+2026-03-16T16:58:34,none,paddle,75,Verfahrenskarte_Weiss_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Aufenthaltsberechtigungskarte,keyword: aufenthaltsberechtigungskarte
+2026-03-16T17:02:27,preprocess,paddle,1,Afghan.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,2,Aufenthaltstitel_Vertriebene_V.jpg,3,11,25,1,1,2,1.000000,Aufenthaltstitel,keyword: aufenthaltstitel
+2026-03-16T17:02:27,preprocess,paddle,3,Aufenthaltstitel-Rot-Weiss-Rot-Karte_VS_20241029.jpg,3,11,25,1,1,2,1.000000,Aufenthaltstitel,keyword: aufenthaltstitel
+2026-03-16T17:02:27,preprocess,paddle,4,azerbaijan.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,5,belize.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,6,china passport 1.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,7,china passport 2.jpeg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,8,china passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,9,china passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,10,china passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,11,china passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,12,czech.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,13,egypt.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,14,finland passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,15,finland.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,16,Fremdenpass_Datenseite_neu_20240124.png,3,11,25,1,1,2,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,17,Gruene_Verfahrenskarte_2048.jpg,3,11,25,1,1,1,1.000000,Verfahrenskarte,keyword: verfahrenskarte
+2026-03-16T17:02:27,preprocess,paddle,18,hong kong passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,19,hong kong passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,20,hong kong passport 3 very fake.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,21,hong kong passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,22,Identitaetskarte_fuer_Fremde_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Identitaetskarte,keyword: identitätskarte
+2026-03-16T17:02:27,preprocess,paddle,23,india passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,24,india passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,25,india passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,26,india passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,27,india passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,28,india passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,29,indonesia passport 1.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:02:27,preprocess,paddle,30,indonesia passport 2 at angle.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:02:27,preprocess,paddle,31,indonesia passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,32,Karte_fuer_Geduldete_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Geduldete,keyword: geduldete
+2026-03-16T17:02:27,preprocess,paddle,33,Konventionspass_Datenseite_neu_20240124.png,3,11,25,1,1,2,1.000000,Reisedokument,keyword: reisedokument
+2026-03-16T17:02:27,preprocess,paddle,34,kosovo.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,35,kosovo2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,36,latvia.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,37,lihtunaia.jpg,3,11,25,1,1,0,1.000000,Travel Document,fuzzy: travel document
+2026-03-16T17:02:27,preprocess,paddle,38,lithuania.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,39,malaysia passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,40,malaysia passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,41,malaysia passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,42,malaysia passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,43,malaysia passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,44,netherlands.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,45,oman passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,46,palastin.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,47,philippines passport 1.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:02:27,preprocess,paddle,48,philippines passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,49,philippines passport 3.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,50,philippines passport 4.png,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:02:27,preprocess,paddle,51,philippines passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,52,san marino.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,53,singapore nric 1.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,54,singapore nric 2 low res.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,55,singapore nric 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,56,singapore nric 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,57,singapore nric 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,58,singapore passport 1 low res.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,59,taiwan passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,60,taiwan passport 2.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,61,taiwan passport 3.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,62,taiwan passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,63,taiwan passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,64,thailand passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,65,thailand passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,66,thailand passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,67,uk passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,68,uk passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:02:27,preprocess,paddle,69,ungarn.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,70,usa passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,71,usa passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:02:27,preprocess,paddle,72,vatican.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:02:27,preprocess,paddle,73,Verfahrenskarte_Blau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Asylberechtigt,keyword: asylberechtigt
+2026-03-16T17:02:27,preprocess,paddle,74,Verfahrenskarte_Grau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Schutzberechtigt,keyword: schutzberechtigt
+2026-03-16T17:02:27,preprocess,paddle,75,Verfahrenskarte_Weiss_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Aufenthaltsberechtigungskarte,keyword: aufenthaltsberechtigungskarte
+2026-03-16T17:09:01,none,tesseract,1,Afghan.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,2,Aufenthaltstitel_Vertriebene_V.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,3,Aufenthaltstitel-Rot-Weiss-Rot-Karte_VS_20241029.jpg,3,11,25,1,1,1,1.000000,Residence permit,keyword: residence permit
+2026-03-16T17:09:01,none,tesseract,4,azerbaijan.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,5,belize.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,6,china passport 1.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,7,china passport 2.jpeg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,8,china passport 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,9,china passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,10,china passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,11,china passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,12,czech.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,13,egypt.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,14,finland.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,15,Fremdenpass_Datenseite_neu_20240124.png,3,11,25,1,1,2,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,16,Gruene_Verfahrenskarte_2048.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein OCR-Text
+2026-03-16T17:09:01,none,tesseract,17,hong kong passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,18,hong kong passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,19,hong kong passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,20,hong kong passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,21,Identitaetskarte_fuer_Fremde_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Identitaetskarte,keyword: identitätskarte
+2026-03-16T17:09:01,none,tesseract,22,india passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,23,india passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,24,india passport 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,25,india passport 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,26,india passport 6.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,27,indonesia passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,28,indonesia passport 2 at angle.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,29,indonesia passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,30,Karte_fuer_Geduldete_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Geduldete,keyword: geduldete
+2026-03-16T17:09:01,none,tesseract,31,Konventionspass_Datenseite_neu_20240124.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,32,kosovo.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,33,kosovo2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,34,latvia.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,35,lihtunaia.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,36,lithuania.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,37,malaysia passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,38,malaysia passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,39,malaysia passport 4.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,40,malaysia passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,41,netherlands.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,42,oman passport 1.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:09:01,none,tesseract,43,palastin.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,44,philippines passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,45,philippines passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,46,philippines passport 3.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,47,philippines passport 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,48,philippines passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,49,san marino.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,50,singapore passport 1 low res.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,51,taiwan passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,52,taiwan passport 2.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,53,taiwan passport 3.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,54,taiwan passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,55,taiwan passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,56,thailand passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,57,thailand passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,58,thailand passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,59,uk passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,60,ungarn.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,61,usa passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,62,usa passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:09:01,none,tesseract,63,vatican.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:09:01,none,tesseract,64,Verfahrenskarte_Blau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Asylberechtigt,keyword: asylberechtigt
+2026-03-16T17:09:01,none,tesseract,65,Verfahrenskarte_Grau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Schutzberechtigt,keyword: schutzberechtigt
+2026-03-16T17:09:01,none,tesseract,66,Verfahrenskarte_Weiss_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Aufenthaltsberechtigungskarte,keyword: aufenthaltsberechtigungskarte
+2026-03-16T17:10:56,preprocess,tesseract,1,Afghan.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,2,Aufenthaltstitel_Vertriebene_V.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein OCR-Text
+2026-03-16T17:10:56,preprocess,tesseract,3,Aufenthaltstitel-Rot-Weiss-Rot-Karte_VS_20241029.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein OCR-Text
+2026-03-16T17:10:56,preprocess,tesseract,4,azerbaijan.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,5,belize.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,6,china passport 1.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,7,china passport 2.jpeg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,8,china passport 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,9,china passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,10,china passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,11,china passport 6.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,12,czech.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,13,egypt.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,14,finland.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,15,Fremdenpass_Datenseite_neu_20240124.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,16,Gruene_Verfahrenskarte_2048.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein OCR-Text
+2026-03-16T17:10:56,preprocess,tesseract,17,hong kong passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,18,hong kong passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,19,hong kong passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,20,hong kong passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,21,Identitaetskarte_fuer_Fremde_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Identitaetskarte,keyword: identitätskarte
+2026-03-16T17:10:56,preprocess,tesseract,22,india passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,23,india passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,24,india passport 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,25,india passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,26,india passport 6.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,27,indonesia passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,28,indonesia passport 2 at angle.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,29,indonesia passport 3.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,30,Karte_fuer_Geduldete_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Geduldete,keyword: geduldete
+2026-03-16T17:10:56,preprocess,tesseract,31,Konventionspass_Datenseite_neu_20240124.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,32,kosovo.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,33,kosovo2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,34,latvia.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,35,lihtunaia.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,36,lithuania.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,37,malaysia passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,38,malaysia passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,39,malaysia passport 4.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,40,malaysia passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,41,netherlands.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,42,oman passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,43,palastin.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,44,philippines passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,45,philippines passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,46,philippines passport 3.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,47,philippines passport 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,48,philippines passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,49,san marino.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,50,singapore passport 1 low res.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,51,taiwan passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,52,taiwan passport 2.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,53,taiwan passport 3.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,54,taiwan passport 4.png,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,55,taiwan passport 5.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,56,thailand passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,57,thailand passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,58,thailand passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,59,uk passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:10:56,preprocess,tesseract,60,ungarn.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,61,usa passport 1.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,62,usa passport 2.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,63,vatican.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:10:56,preprocess,tesseract,64,Verfahrenskarte_Blau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Asylberechtigt,keyword: asylberechtigt
+2026-03-16T17:10:56,preprocess,tesseract,65,Verfahrenskarte_Grau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Schutzberechtigt,keyword: schutzberechtigt
+2026-03-16T17:10:56,preprocess,tesseract,66,Verfahrenskarte_Weiss_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Aufenthaltsberechtigungskarte,keyword: aufenthaltsberechtigungskarte
+2026-03-16T17:13:45,preprocess,paddle,1,Afghan.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,2,Aufenthaltstitel_Vertriebene_V.jpg,3,11,25,1,1,2,1.000000,Aufenthaltstitel,keyword: aufenthaltstitel
+2026-03-16T17:13:45,preprocess,paddle,3,Aufenthaltstitel-Rot-Weiss-Rot-Karte_VS_20241029.jpg,3,11,25,1,1,2,1.000000,Aufenthaltstitel,keyword: aufenthaltstitel
+2026-03-16T17:13:45,preprocess,paddle,4,azerbaijan.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,5,belize.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,6,china passport 1.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,7,china passport 2.jpeg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,8,china passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,9,china passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,10,china passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,11,china passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,12,czech.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,13,egypt.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,14,finland.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,15,Fremdenpass_Datenseite_neu_20240124.png,3,11,25,1,1,2,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,16,Gruene_Verfahrenskarte_2048.jpg,3,11,25,1,1,1,1.000000,Verfahrenskarte,keyword: verfahrenskarte
+2026-03-16T17:13:45,preprocess,paddle,17,hong kong passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,18,hong kong passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,19,hong kong passport 3 very fake.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,20,hong kong passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,21,Identitaetskarte_fuer_Fremde_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Identitaetskarte,keyword: identitätskarte
+2026-03-16T17:13:45,preprocess,paddle,22,india passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,23,india passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,24,india passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,25,india passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,26,india passport 6.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,27,indonesia passport 1.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:13:45,preprocess,paddle,28,indonesia passport 2 at angle.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:13:45,preprocess,paddle,29,indonesia passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,30,Karte_fuer_Geduldete_VS_2048_20240819.jpg,3,11,25,1,1,1,1.000000,Geduldete,keyword: geduldete
+2026-03-16T17:13:45,preprocess,paddle,31,Konventionspass_Datenseite_neu_20240124.png,3,11,25,1,1,2,1.000000,Reisedokument,keyword: reisedokument
+2026-03-16T17:13:45,preprocess,paddle,32,kosovo.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,33,kosovo2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,34,latvia.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,35,lihtunaia.jpg,3,11,25,1,1,0,1.000000,Travel Document,fuzzy: travel document
+2026-03-16T17:13:45,preprocess,paddle,36,lithuania.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,37,malaysia passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,38,malaysia passport 3 very fake.jpg,3,11,25,1,0,0,0.000000,Unbekannt,kein Match
+2026-03-16T17:13:45,preprocess,paddle,39,malaysia passport 4.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,40,malaysia passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,41,netherlands.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,42,oman passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,43,palastin.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,44,philippines passport 1.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:13:45,preprocess,paddle,45,philippines passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,46,philippines passport 3.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,47,philippines passport 4.png,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:13:45,preprocess,paddle,48,philippines passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,49,san marino.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,50,singapore passport 1 low res.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,51,taiwan passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,52,taiwan passport 2.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,53,taiwan passport 3.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,54,taiwan passport 4.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,55,taiwan passport 5.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,56,thailand passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,57,thailand passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,58,thailand passport 3.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,59,uk passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,60,ungarn.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,61,usa passport 1.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,62,usa passport 2.jpg,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-16T17:13:45,preprocess,paddle,63,vatican.jpg,3,11,25,1,1,0,1.000000,Fremdenwesen Passport,fuzzy: passport
+2026-03-16T17:13:45,preprocess,paddle,64,Verfahrenskarte_Blau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Asylberechtigt,keyword: asylberechtigt
+2026-03-16T17:13:45,preprocess,paddle,65,Verfahrenskarte_Grau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Schutzberechtigt,keyword: schutzberechtigt
+2026-03-16T17:13:45,preprocess,paddle,66,Verfahrenskarte_Weiss_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Aufenthaltsberechtigungskarte,keyword: aufenthaltsberechtigungskarte
