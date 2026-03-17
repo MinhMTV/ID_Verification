@@ -93,10 +93,23 @@ def _get_paddle_model():
     if _PADDLE_MODEL is not None:
         return _PADDLE_MODEL
 
+    # Workaround for known Windows DLL/load-order conflicts:
+    # import torch before paddleocr/albumentations stack.
+    try:
+        import torch  # noqa: F401
+    except Exception as ex:
+        raise RuntimeError(f"Torch Importfehler vor PaddleOCR: {ex}") from ex
+
     try:
         from paddleocr import PaddleOCR
     except Exception as ex:
-        raise RuntimeError("PaddleOCR ist nicht installiert.") from ex
+        msg = str(ex)
+        if "WinError 127" in msg or "shm.dll" in msg or "torch" in msg.lower():
+            raise RuntimeError(
+                "PaddleOCR konnte nicht importiert werden, weil Torch/Runtime in der venv fehlerhaft ist "
+                f"(Details: {msg}). Das ist kein 'nicht installiert' Problem."
+            ) from ex
+        raise RuntimeError(f"PaddleOCR Importfehler: {msg}") from ex
 
     try:
         import paddle  # noqa: F401
@@ -179,7 +192,13 @@ def _get_easyocr_reader():
     try:
         import easyocr
     except Exception as ex:
-        raise RuntimeError("EasyOCR ist nicht installiert.") from ex
+        msg = str(ex)
+        if "WinError 127" in msg or "shm.dll" in msg or "torch" in msg.lower():
+            raise RuntimeError(
+                "EasyOCR konnte nicht importiert werden, weil Torch/Runtime in der venv fehlerhaft ist "
+                f"(Details: {msg}). Das ist kein 'nicht installiert' Problem."
+            ) from ex
+        raise RuntimeError(f"EasyOCR Importfehler: {msg}") from ex
 
     # CPU by default for broad compatibility.
     _EASYOCR_READER = easyocr.Reader(["de", "en"], gpu=False)
