@@ -85,6 +85,7 @@ def ocr_with_tesseract(orig_bgr: np.ndarray, preprocessed: np.ndarray | None = N
 
 
 _PADDLE_MODEL = None
+_EASYOCR_READER = None
 
 
 def _get_paddle_model():
@@ -166,6 +167,51 @@ def ocr_with_paddle(orig_bgr: np.ndarray, preprocessed: np.ndarray | None = None
                     boxes.append((x1, y1, x2, y2))
             except Exception:
                 continue
+
+    return OCRResult(full_text="\n".join(lines).strip(), boxes=boxes)
+
+
+def _get_easyocr_reader():
+    global _EASYOCR_READER
+    if _EASYOCR_READER is not None:
+        return _EASYOCR_READER
+
+    try:
+        import easyocr
+    except Exception as ex:
+        raise RuntimeError("EasyOCR ist nicht installiert.") from ex
+
+    # CPU by default for broad compatibility.
+    _EASYOCR_READER = easyocr.Reader(["de", "en"], gpu=False)
+    return _EASYOCR_READER
+
+
+def ocr_with_easyocr(orig_bgr: np.ndarray, preprocessed: np.ndarray | None = None) -> OCRResult:
+    reader = _get_easyocr_reader()
+    img_for_ocr = preprocessed if preprocessed is not None else orig_bgr
+    rgb = _as_rgb(img_for_ocr)
+
+    try:
+        result = reader.readtext(rgb, detail=1, paragraph=False)
+    except Exception as ex:
+        raise RuntimeError(f"EasyOCR Laufzeitfehler: {ex}") from ex
+
+    lines: List[str] = []
+    boxes: List[Tuple[int, int, int, int]] = []
+    for item in result:
+        if not item or len(item) < 2:
+            continue
+        quad = item[0]
+        txt = str(item[1]).strip()
+        if txt:
+            lines.append(txt)
+        try:
+            pts = np.array(quad, dtype=np.int32).reshape(-1, 2)
+            x, y, w, h = cv2.boundingRect(pts)
+            if w > 0 and h > 0:
+                boxes.append((x, y, x + w, y + h))
+        except Exception:
+            continue
 
     return OCRResult(full_text="\n".join(lines).strip(), boxes=boxes)
 

@@ -7,6 +7,7 @@ numpy>=1.24.0
 
 # Tesseract OCR (Python Binding)
 pytesseract>=0.3.10
+easyocr>=1.7.1
 
 # Optional: PDF support (falls du PDFs laden willst)
 pdf2image>=1.17.0

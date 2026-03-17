@@ -20,6 +20,7 @@ from ocr_engines import (
     OCRResult,
     detect_text_regions_east,
     detect_text_regions_mser,
+    ocr_with_easyocr,
     ocr_with_paddle,
     ocr_with_tesseract,
 )
@@ -119,7 +120,7 @@ def _read_image_any(path: str) -> np.ndarray:
 class OCRApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("ID OCR - Tesseract / Paddle / MSER / EAST")
+        self.title("ID OCR - Tesseract / Paddle / EasyOCR / MSER / EAST")
         self.geometry("1280x760")
 
         self.engine_var = tk.StringVar(value="tesseract")
@@ -155,6 +156,7 @@ class OCRApp(tk.Tk):
         ttk.Label(top, text="Engine:").pack(side=tk.LEFT)
         ttk.Radiobutton(top, text="Tesseract", value="tesseract", variable=self.engine_var).pack(side=tk.LEFT, padx=6)
         ttk.Radiobutton(top, text="PaddleOCR", value="paddle", variable=self.engine_var).pack(side=tk.LEFT, padx=6)
+        ttk.Radiobutton(top, text="EasyOCR", value="easyocr", variable=self.engine_var).pack(side=tk.LEFT, padx=6)
 
         ttk.Separator(top, orient=tk.VERTICAL).pack(side=tk.LEFT, fill=tk.Y, padx=8)
 
@@ -403,6 +405,8 @@ class OCRApp(tk.Tk):
                 pre = preprocess_for_ocr(bgr, method=train_method)
             if train_engine == "paddle":
                 res = ocr_with_paddle(bgr, pre)
+            elif train_engine == "easyocr":
+                res = ocr_with_easyocr(bgr, pre)
             else:
                 res = ocr_with_tesseract(bgr, pre)
             category, _, reason = classify_document_type(res.full_text)
@@ -808,6 +812,8 @@ class OCRApp(tk.Tk):
         engine = self.engine_var.get().strip().lower()
         if engine == "tesseract":
             return ocr_with_tesseract(orig, pre)
+        if engine == "easyocr":
+            return ocr_with_easyocr(orig, pre)
         return ocr_with_paddle(orig, pre)
 
     def _detect_regions(self, method: str) -> List[Tuple[int, int, int, int]]:
