@@ -43,6 +43,17 @@ python -m venv .venv
 4. `OCR starten`
 5. Ergebnistext + Dokumenttyp + Boxen prüfen
 
+## Aktuelle Erkennungslogik
+Die Dokument-Erkennung basiert aktuell auf `Keyword + Fuzzy Matching` im OCR-Text.
+
+Aktueller Fokus:
+- Pass-/Dokumentmerkmale (z. B. `passport`, `fremdenpass`, `aufenthaltstitel`, `geduldete`, ...)
+
+Wichtig:
+- Die Keyword-Liste ist bewusst einfach erweiterbar.
+- Du kannst jederzeit auf andere Merkmale filtern (z. B. neue Dokumenttypen, projektspezifische Begriffe, Feldnamen).
+- Die Konfiguration liegt im Code als Mapping und kann ohne Architekturänderung angepasst werden.
+
 ## Train Data (adaptive)
 - `Trainingsdaten hinzufuegen`: mehrere Bilder auswählen
 - `Train-Filter` wählen (`current`, `adaptive`, `preprocess`, `otsu`, `clahe`, `none`)
