@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+
+# Training outputs
+train_adaptive_grid_results.csv
+train_adaptive_grid_summary.csv
+
+# Optional typo variant requested
+train_adaptive_gird_results.csv
+train_adaptive_gird_summary.csv

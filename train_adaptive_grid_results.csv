@@ -818,3 +818,5 @@ run_id,preprocess_method,image_index,image_name,h,block_size,c_value,processed,r
 2026-03-17T09:44:23,none,paddle,64,Verfahrenskarte_Blau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Asylberechtigt,keyword: asylberechtigt
 2026-03-17T09:44:23,none,paddle,65,Verfahrenskarte_Grau_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Schutzberechtigt,keyword: schutzberechtigt
 2026-03-17T09:44:23,none,paddle,66,Verfahrenskarte_Weiss_Vorderseite_20241029.jpg,3,11,25,1,1,1,1.000000,Aufenthaltsberechtigungskarte,keyword: aufenthaltsberechtigungskarte
+2026-03-17T10:18:28,preprocess,paddle,1,Afghan.png,3,11,25,1,1,1,1.000000,Fremdenwesen Passport,keyword: passport
+2026-03-17T10:18:28,preprocess,paddle,2,Aufenthaltstitel_Vertriebene_V.jpg,3,11,25,1,1,2,1.000000,Aufenthaltstitel,keyword: aufenthaltstitel
